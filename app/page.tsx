@@ -20,7 +20,7 @@ export default function Home() {
             height={200}
             style={{
               borderRadius: '50%',
-              border: '5px solid white',
+              border: '5px solid #333',
             }}
             priority
           />
